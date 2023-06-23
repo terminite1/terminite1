@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there.............
+
+I'm terminite, a young fish trying to learn more about coding.
+
+- I'm currently working on my discord bot (kou-discord-bot)
+- I'm currently learning **Javascript**, **C#**, **C++**, **Lua**, **Assembly x86**
+- You can get in reach with me on my discord: `terminite`
+- Pronouns: he/him (i joke a lot and say fi/sh)
+- Fun fact: lua is boring.....
 
 <!--
 **terminite1/terminite1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
