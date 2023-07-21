@@ -1,5 +1,3 @@
-STUPID NOOB
-
 ### Hi there.............
 
 I'm terminite, a young fish trying to learn more about coding.
