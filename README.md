@@ -2,7 +2,6 @@
 
 I'm terminite, a young fish trying to learn more about coding.
 
-IF CLYDE READS THEN FAT
 - I'm currently working on my discord bot (kou-discord-bot)
 - I'm currently learning **Javascript**, **C#**, **C++**, **Lua**, **Assembly x86**
 - You can get in reach with me on my discord: `terminite`
