@@ -1,6 +1,6 @@
 ### Hi there.............
 
-I'm terminite, a young fish trying to learn more about coding.
+I'm terminite, a fish trying to learn more about coding.
 
 - I'm currently working on my discord bot (kou-discord-bot)
 - I'm currently learning **Javascript**, **C#**, **C++**, **Lua**, **Assembly x86**
