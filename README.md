@@ -3,7 +3,7 @@
 I'm terminite, a fish trying to learn more about coding.
 
 - I'm currently working on my discord bot (kou-discord-bot)
-- I'm currently learning **Javascript**, **C#**, **C++**, **Lua**, **Assembly x86**
+- I'm currently learning **Python**, **Javascript**, **C#**, **C++**, **Lua**, **Assembly x86**
 - You can get in reach with me on my discord: `terminite`
 - Pronouns: he/him (i joke a lot and say fi/sh)
 - Fun fact: lua is boring.....
